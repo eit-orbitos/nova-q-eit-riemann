@@ -1,0 +1,71 @@
+{
+  "schema": "tasklet.rc3.order03.registration.v1",
+  "recorded_at": "2026-11-02T20:51:03.119Z",
+  "registration_status": "GITHUB_REFERENCE_VERIFIED_AND_REGISTERED",
+  "assessment": "PASS_WITH_NOTES",
+  "RC3_ENGINEERING_BASELINE": "FROZEN",
+  "F1": "NOT_TESTED",
+  "F2": "FAIL_FOR_PHI_LOG_X",
+  "EIT_ACTIVATION_VALIDATED": "NO",
+  "RH_PROVEN": "NO",
+  "V0_9": "HOLD",
+  "commit_sha": "91a582b3c2fb1a8abe72fca8943af58ccef9b6b0",
+  "commit_url": "https://github.com/eit-orbitos/nova-q-eit-riemann/commit/91a582b3c2fb1a8abe72fca8943af58ccef9b6b0",
+  "commit_author_date": "2026-11-02T20:42:34Z",
+  "observed_at": "2026-11-02T20:50:31.786Z",
+  "package_sha256": "ea09917e090306bc4a2df58758fe0a29c6a90b7365384981094c5ec847a95414",
+  "archived_digest_record_matches_baseline": true,
+  "freeze_documents_byte_identical": true,
+  "zip_present_in_commit": false,
+  "zip_bytes_reverified": false,
+  "github_hosted_reference_verified": true,
+  "author_signed_archive_established": false,
+  "independently_certified_timestamp_established": false,
+  "new_freeze_approval": false,
+  "github_writes_performed": false,
+  "project_tests_executed": false,
+  "prior_registration": {
+    "path": "/tasklet/drive/riemann/RC3_ENGINEERING_BASELINE_REGISTRATION_2026-11-02.md",
+    "sha256": "eab38b96e67b0f2aaca5260c894b1bb269f8cc3df33637542a3b683c0ae7e162"
+  },
+  "addendum": {
+    "path": "/tasklet/drive/riemann/RC3_ORDER03_GITHUB_ANCHOR_REGISTRATION_ADDENDUM_V1.md",
+    "sha256": "ccc55b2e109fb044d4ad7c97f2738f8c0ce334d39b9c6f5063fb52262d4fdac5"
+  },
+  "evidence": "verification.json",
+  "document_checks": [
+    {
+      "name": "NOVA_Q_EIT_RIEMANN_V0_8_2_RC3_ENGINEERING_FREEZE_RECEIPT.md",
+      "bytes": 3969,
+      "sha256": "c3ce7c01278df965f89ce00556a7502dc920a8bae74295c915eade5659314584",
+      "original_sha256": "c3ce7c01278df965f89ce00556a7502dc920a8bae74295c915eade5659314584",
+      "byte_identical": true,
+      "git_blob_sha1": "eb2c48666ee7c5fb604f74978952da0a513b0951",
+      "tree_blob_sha1": "eb2c48666ee7c5fb604f74978952da0a513b0951",
+      "blob_matches_tree": true,
+      "declared_package_digest_matches": true
+    },
+    {
+      "name": "NOVA_Q_EIT_RIEMANN_RC3_EXTERNAL_SHA256_ANCHOR.txt",
+      "bytes": 801,
+      "sha256": "d1975948979d270fc495d81704cbe49965191473380c40cad88402cd2ed1ba12",
+      "original_sha256": "d1975948979d270fc495d81704cbe49965191473380c40cad88402cd2ed1ba12",
+      "byte_identical": true,
+      "git_blob_sha1": "9f94a5a7c63cb410e35fb287a4fb1096b4286277",
+      "tree_blob_sha1": "9f94a5a7c63cb410e35fb287a4fb1096b4286277",
+      "blob_matches_tree": true,
+      "declared_package_digest_matches": true
+    },
+    {
+      "name": "NOVA_Q_EIT_RIEMANN_V0_8_2_RC3_FREEZE_STATUS.json",
+      "bytes": 1453,
+      "sha256": "97542b6a1789521b42444304b6be0ba826becaea22d0798b4636401aaa9e80f4",
+      "original_sha256": "97542b6a1789521b42444304b6be0ba826becaea22d0798b4636401aaa9e80f4",
+      "byte_identical": true,
+      "git_blob_sha1": "4069de8d6be02c2456cc6969d607e673cae06000",
+      "tree_blob_sha1": "4069de8d6be02c2456cc6969d607e673cae06000",
+      "blob_matches_tree": true,
+      "declared_package_digest_matches": true
+    }
+  ]
+}
