@@ -1,0 +1,38 @@
+{
+  "project": "NOVA Q / EIT — Riemann",
+  "version": "V0.8.2-RC3",
+  "decision": "FREEZE_AS_ENGINEERING_BASELINE",
+  "decision_state": "AUTHOR_AUTHORIZED_RECORDED",
+  "authorizing_name_as_declared": "Mr. Toni Mladenovski",
+  "authorization_source": "direct user message in this conversation",
+  "authorization_quote": "Go FREEZE AS ENGINEERING BASELINE",
+  "authorization_method": "explicit_chat_instruction_not_cryptographic_signature",
+  "recorded_at": "2026-11-02T12:42:13-07:00",
+  "source_message_time_exact": null,
+  "package_filename": "NOVA_Q_EIT_RIEMANN_V0_8_2_RC3.zip",
+  "package_sha256": "ea09917e090306bc4a2df58758fe0a29c6a90b7365384981094c5ec847a95414",
+  "manifest_verified_entries": 81,
+  "manifest_mismatches": 0,
+  "package_modified": false,
+  "anchor_artifact": "NOVA_Q_EIT_RIEMANN_RC3_EXTERNAL_SHA256_ANCHOR.txt",
+  "external_cryptographic_anchor": false,
+  "engineering_verification": {
+    "tests": "95/95",
+    "gates": "12/12",
+    "reproduction": "BYTE_IDENTICAL exit 0 in verified pinned environment"
+  },
+  "research": {
+    "F1": "NOT_TESTED",
+    "F2": "FAIL_FOR_PHI_LOG_X",
+    "F3": "NOT_TESTED",
+    "F4": "NOT_TESTED",
+    "F5": "OPEN",
+    "RH_PROVEN": false,
+    "P_VS_NP_PROVEN": false,
+    "EIT_ACTIVATION_VALIDATED": false,
+    "NEXT_ZERO_PREDICTION": "NOT_VALIDATED",
+    "V0_9": "HOLD"
+  },
+  "scope_limit": "engineering_only",
+  "receipt_file": "NOVA_Q_EIT_RIEMANN_V0_8_2_RC3_ENGINEERING_FREEZE_RECEIPT.md"
+}

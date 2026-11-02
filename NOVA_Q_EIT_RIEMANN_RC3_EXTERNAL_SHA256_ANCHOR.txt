@@ -1,0 +1,11 @@
+NOVA Q / EIT — RC3 ENGINEERING BASELINE — EXTERNAL-TO-ZIP DIGEST RECORD
+Record created: 2026-11-02T12:42:13-07:00
+Package: NOVA_Q_EIT_RIEMANN_V0_8_2_RC3.zip
+SHA-256: ea09917e090306bc4a2df58758fe0a29c6a90b7365384981094c5ec847a95414
+Decision: FREEZE AS ENGINEERING BASELINE
+Authorized by: Research Architect Mr. Toni Mladenovski
+Authorization evidence: user message in this conversation: "Go FREEZE AS ENGINEERING BASELINE"
+Authorization method: explicit conversational instruction (not a cryptographic signature)
+Anchor location: this standalone text file outside the frozen ZIP, attached to this conversation.
+External signed tag, independent timestamp authority, or archival DOI: NOT ESTABLISHED.
+Scientific scope: engineering baseline only; RH_PROVEN=NO; EIT_ACTIVATION_VALIDATED=NO; V0_9=HOLD.
